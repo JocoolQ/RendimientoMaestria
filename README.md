@@ -15,7 +15,7 @@ Para ejecutar la aplicación puede instalar el entorno SWI-Prolog. Puede acceder
 
 
 ## Instrucciones
-* Abra el entorno de SWI-Prolog y cargue el archivo *identificacion_de_animales.pl* en la pestaña File->Consult.
+* Abra el entorno de SWI-Prolog y cargue el archivo *rendimientoMaestria.pl* en la pestaña File->Consult.
 * Escriba la sentencia *"crear"* en el editor de comandos seguido de un punto *"."* y presione la tecla *"Enter"*.
 * Se le pedirá que agregué información sobre una materia que haya cursado, como su nombre, número de créditos y notas del primer, segundo y tercer corte.
 * Responda a las preguntas con el valor indicado seguido de un punto *"."* y la tecla *"Enter"*.
