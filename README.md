@@ -1,5 +1,5 @@
 # RendimientoMaestria
-Ejemplo de un programa elaborado usando el paradigma de programación lógica para la definición del rendimiento en un programa de maestría basado en las notas obtenidas en las materias cursadas.
+Ejemplo de un programa elaborado usando el paradigma de programación lógica para la definición del rendimiento en un programa de maestría, el cual está basado en las notas obtenidas de las materias cursadas.
 
 # Información
 
